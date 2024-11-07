@@ -4,12 +4,12 @@
 <h1 align="center">Hi, I'm Pramodya Deshan</h1>
 <h3 align="center">Software Engineer | Web Developer</h3>
 <p align="center">
-  	<a href="https://api.whatsapp.com/send?phone=779707981"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
-	<a href="mailto:pramodyadeshan.info@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/pramodya-deshan-9474a3154/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/Pramodya.Deshan96"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/pramodyadeshan996/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/@pramodyadeshan"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+  	<a href="https://api.whatsapp.com/send?phone=779707981" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
+	<a href="mailto:pramodyadeshan.info@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/pramodya-deshan-9474a3154/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/Pramodya.Deshan96" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/pramodyadeshan996/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/@pramodyadeshan" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 </p>
 
 <p align="center"> <em> Hello! I'm Pramodya Deshan, a <strong>final-year undergraduate Bachelor in Information Technology</strong> at <a href="https://bit.uom.lk/">University Of Moratuwa</a>, <br>specializing in Full-Stack Software Development and Competitive Programming. <br> I am passionate about <strong>self-improvement</strong> and driven by a desire to constantly <strong>learn</strong>, <strong>grow</strong> in the tech industry.<br> I am always looking for new challenges and opportunities to develop my skills, contribute to impactful projects, and make a positive difference. 🚀 </em> <br><br> <strong><i>Continuously Learning & Growing!</i></strong> 🌱 </p>
