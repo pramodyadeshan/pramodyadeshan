@@ -52,7 +52,7 @@
     width="60px"
     alt="React">
   <img
-    src="https://icongr.am/devicon/jquery-original-wordmark.svg"
+    src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"
     width="60px"
     alt="Jquery">
   <img
@@ -64,15 +64,15 @@
     width="60px"
     alt="TailwindCss">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg"
+    src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"
     width="60px"
     alt="Bootstrap">
   <img
-    src="https://icongr.am/devicon/laravel-plain-wordmark.svg"
+    src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"
     width="60px"
     alt="Laravel">
   <img
-    src="https://icongr.am/devicon/codeigniter-plain.svg"
+    src="https://cdn1.iconfinder.com/data/icons/logos-3/304/codeigniter-512.png"
     width="60px"
     alt="CI">
   
@@ -86,12 +86,12 @@
   
   <h3>Tools</h3>
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
+    src="https://www.vectorlogo.zone/logos/github/github-tile.svg"
     width="60px"
-    alt="Git">
+    alt="Github">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://icongr.am/devicon/git-original-wordmark.svg"
+    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
     width="60px"
     alt="Git">
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -101,7 +101,7 @@
     alt="Jira">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://icongr.am/devicon/wordpress-original.svg"
+    src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"
     width="60px"
     alt="Wordpress">
     &nbsp;&nbsp;&nbsp;&nbsp;
